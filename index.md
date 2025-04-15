@@ -109,112 +109,116 @@
 
 # 1999 Base Set - 2nd Print Shadowless
 
-| Card # | Name                      | Edition           | Special              | Owned | Condition | PSA Grade | Rarity      |
-| ------ | ------------------------- | ----------------- | -------------------- | ----- | --------- | --------- | ----------- |
-| 1      | Alakazam                  | 2nd - Shadowless  |                      |       |           |           | Rare Holo   |
-| 2      | Blastoise                 | 2nd - Shadowless  |                      |       |           |           | Rare Holo   |
-| 3      | Chansey                   | 2nd - Shadowless  |                      |       |           |           | Rare Holo   |
-| 4      | Charizard                 | 2nd - Shadowless  |                      |       |           |           | Rare Holo   |
-| 5      | Clefairy                  | 2nd - Shadowless  |                      |       |           |           | Rare Holo   |
-| 6      | Gyarados                  | 2nd - Shadowless  |                      | Yes   | Low       | 5         | Rare Holo   |
-| 7      | Hitmonchan                | 2nd - Shadowless  |                      |       |           |           | Rare Holo   |
-| 8      | Machamp                   | 2nd - Shadowless  | 1st Ed-Shadowless    |       |           |           | Rare Holo   |
-| 9      | Magneton                  | 2nd - Shadowless  |                      |       |           |           | Rare Holo   |
-| 10     | Mewtwo                    | 2nd - Shadowless  |                      |       |           |           | Rare Holo   |
-| 11     | Nidoking                  | 2nd - Shadowless  |                      |       |           |           | Rare Holo   |
-| 12     | Ninetales                 | 2nd - Shadowless  | Missing Attack Err   |       |           |           | Rare Holo   |
-| 12     | Ninetales                 | 2nd - Shadowless  |                      | Yes   | Low       | 5         | Rare Holo   |
-| 13     | Poliwrath                 | 2nd - Shadowless  |                      | Yes   | Excellent | 9         | Rare Holo   |
-| 14     | Raichu                    | 2nd - Shadowless  |                      |       |           |           | Rare Holo   |
-| 15     | Venusaur                  | 2nd - Shadowless  |                      |       |           |           | Rare Holo   |
-| 16     | Zapdos                    | 2nd - Shadowless  |                      |       |           |           | Rare Holo   |
-| 17     | Beedrill                  | 2nd - Shadowless  |                      | Yes   |           |           | Rare        |
-| 18     | Dragonair                 | 2nd - Shadowless  |                      | Yes   | Excellent |           | Rare        |
-| 19     | Dugtrio                   | 2nd - Shadowless  |                      |       |           |           | Rare        |
-| 20     | Electabuzz                | 2nd - Shadowless  |                      |       |           |           | Rare        |
-| 21     | Electrode                 | 2nd - Shadowless  |                      | Yes   |           |           | Rare        |
-| 22     | Pidgeotto                 | 2nd - Shadowless  |                      |       |           |           | Rare        |
-| 23     | Arcanine                  | 2nd - Shadowless  |                      | Yes   |           |           | Uncommon    |
-| 24     | Charmeleon                | 2nd - Shadowless  |                      | Yes   |           |           | Uncommon    |
-| 25     | Dewgong                   | 2nd - Shadowless  |                      | Yes   |           |           | Uncommon    |
-| 26     | Dratini                   | 2nd - Shadowless  |                      | Yes   |           |           | Uncommon    |
-| 27     | Farfetch'd                | 2nd - Shadowless  |                      | Yes   |           |           | Uncommon    |
-| 28     | Growlithe                 | 2nd - Shadowless  |                      | Yes   |           |           | Uncommon    |
-| 29     | Haunter                   | 2nd - Shadowless  |                      | Yes   |           |           | Uncommon    |
-| 30     | Ivysaur                   | 2nd - Shadowless  |                      | Yes   |           |           | Uncommon    |
-| 31     | Jynx                      | 2nd - Shadowless  |                      | Yes   |           |           | Uncommon    |
-| 32     | Kadabra                   | 2nd - Shadowless  |                      |       |           |           | Uncommon    |
-| 33     | Kakuna                    | 2nd - Shadowless  |                      | Yes   |           |           | Uncommon    |
-| 34     | Machoke                   | 2nd - Shadowless  |                      | Yes   |           |           | Uncommon    |
-| 35     | Magikarp                  | 2nd - Shadowless  |                      | Yes   |           |           | Uncommon    |
-| 36     | Magmar                    | 2nd - Shadowless  |                      | Yes   |           |           | Uncommon    |
-| 37     | Nidorino                  | 2nd - Shadowless  |                      | Yes   |           |           | Uncommon    |
-| 38     | Poliwhirl                 | 2nd - Shadowless  |                      | Yes   |           |           | Uncommon    |
-| 39     | Porygon                   | 2nd - Shadowless  |                      | Yes   |           |           | Uncommon    |
-| 40     | Raticate                  | 2nd - Shadowless  |                      | Yes   |           |           | Uncommon    |
-| 41     | Seel                      | 2nd - Shadowless  |                      | Yes   |           |           | Uncommon    |
-| 42     | Wartortle                 | 2nd - Shadowless  |                      |       |           |           | Uncommon    |
-| 43     | Abra                      | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
-| 44     | Bulbasaur                 | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
-| 45     | Caterpie                  | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
-| 46     | Charmander                | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
-| 47     | Diglett                   | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
-| 48     | Doduo                     | 2nd - Shadowless  |                      |       |           |           | Common      |
-| 49     | Drowzee                   | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
-| 50     | Gastly                    | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
-| 51     | Koffing                   | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
-| 52     | Machop                    | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
-| 53     | Magnemite                 | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
-| 54     | Metapod                   | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
-| 55     | Nidoran♂                  | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
-| 56     | Onix                      | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
-| 57     | Pidgey                    | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
-| 58     | Pikachu                   | 2nd - Shadowless  | E3 Red Cheeks        |       |           |           | Common      |
-| 58     | Pikachu                   | 2nd - Shadowless  | Yellow Cheeks        | Yes   | Excellent | 9         | Common      |
-| 58     | Pikachu                   | 2nd - Shadowless  | Red Cheeks           | Yes   | Excellent | 10        | Common      |
-| 59     | Poliwag                   | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
-| 60     | Ponyta                    | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
-| 61     | Rattata                   | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
-| 62     | Sandshrew                 | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
-| 63     | Squirtle                  | 2nd - Shadowless  | Red Triangle Err     | Yes   |           |           | Common      |
-| 63     | Squirtle                  | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
-| 64     | Starmie                   | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
-| 65     | Staryu                    | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
-| 66     | Tangela                   | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
-| 67     | Voltorb                   | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
-| 68     | Vulpix                    | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
-| 68     | Vulpix                    | 2nd - Shadowless  | Blue Dot Err         |       |           |           | Common      |
-| 69     | Weedle                    | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
-| 70     | Clefairy Doll             | 2nd - Shadowless  |                      | Yes   |           |           | Rare        |
-| 71     | Computer Search           | 2nd - Shadowless  |                      | Yes   |           |           | Rare        |
-| 72     | Devolution Spray          | 2nd - Shadowless  |                      | Yes   |           |           | Rare        |
-| 73     | Imposter Professor Oak    | 2nd - Shadowless  |                      |       |           |           | Rare        |
-| 74     | Item Finder               | 2nd - Shadowless  |                      |       |           |           | Rare        |
-| 75     | Lass                      | 2nd - Shadowless  |                      | Yes   |           |           | Rare        |
-| 76     | Pokémon Breeder           | 2nd - Shadowless  |                      | Yes   |           |           | Rare        |
-| 77     | Pokémon Trader            | 2nd - Shadowless  |                      | Yes   |           |           | Rare        |
-| 78     | Scoop Up                  | 2nd - Shadowless  |                      | Yes   |           |           | Rare        |
-| 79     | Super Energy Removal      | 2nd - Shadowless  |                      | Yes   |           |           | Rare        |
-| 80     | Defender                  | 2nd - Shadowless  |                      | Yes   |           |           | Uncommon    |
-| 81     | Energy Retrieval          | 2nd - Shadowless  |                      | Yes   |           |           | Uncommon    |
-| 82     | Full Heal                 | 2nd - Shadowless  |                      | Yes   |           |           | Uncommon    |
-| 83     | Maintenance               | 2nd - Shadowless  |                      |       |           |           | Uncommon    |
-| 84     | PlusPower                 | 2nd - Shadowless  |                      | Yes   |           |           | Uncommon    |
-| 85     | Pokémon Center            | 2nd - Shadowless  |                      | Yes   |           |           | Uncommon    |
-| 86     | Pokémon Flute             | 2nd - Shadowless  |                      |       |           |           | Uncommon    |
-| 87     | Pokédex                   | 2nd - Shadowless  |                      | Yes   |           |           | Uncommon    |
-| 88     | Professor Oak             | 2nd - Shadowless  |                      | Yes   |           |           | Uncommon    |
-| 89     | Revive                    | 2nd - Shadowless  |                      | Yes   |           |           | Uncommon    |
-| 90     | Super Potion              | 2nd - Shadowless  |                      | Yes   |           |           | Uncommon    |
-| 91     | Bill                      | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
-| 92     | Energy Removal            | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
-| 93     | Gust of Wind              | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
-| 94     | Potion                    | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
-| 95     | Switch                    | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
-| 96     | Double Colorless Energy   | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
-| 97     | Fighting Energy           | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
-| 98     | Fire Energy               | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
-| 99     | Grass Energy              | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
-| 100    | Lightning Energy          | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
-| 101    | Psychic Energy            | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
-| 102    | Water Energy              | 2nd - Shadowless  |                      | Yes   |           |           | Common      |
+| Card # | Name                      | Edition     | Special              | Owned | Condition | PSA Grade | Rarity      |
+| ------ | ------------------------- | ----------- | -------------------- | ----- | --------- | --------- | ----------- |
+| 1      | Alakazam                  | Shadowless  |                      |       |           |           | Rare Holo   |
+| 2      | Blastoise                 | Shadowless  |                      |       |           |           | Rare Holo   |
+| 3      | Chansey                   | Shadowless  |                      |       |           |           | Rare Holo   |
+| 4      | Charizard                 | Shadowless  |                      |       |           |           | Rare Holo   |
+| 5      | Clefairy                  | Shadowless  |                      |       |           |           | Rare Holo   |
+| 6      | Gyarados                  | Shadowless  |                      | Yes   | Low       | 5         | Rare Holo   |
+| 7      | Hitmonchan                | Shadowless  |                      |       |           |           | Rare Holo   |
+| 8      | Machamp                   | Shadowless  | 1st Ed-Shadowless    |       |           |           | Rare Holo   |
+| 9      | Magneton                  | Shadowless  |                      |       |           |           | Rare Holo   |
+| 10     | Mewtwo                    | Shadowless  |                      |       |           |           | Rare Holo   |
+| 11     | Nidoking                  | Shadowless  |                      |       |           |           | Rare Holo   |
+| 12     | Ninetales                 | Shadowless  | Missing Attack Err   |       |           |           | Rare Holo   |
+| 12     | Ninetales                 | Shadowless  |                      | Yes   | Low       | 5         | Rare Holo   |
+| 13     | Poliwrath                 | Shadowless  |                      | Yes   | Excellent | 9         | Rare Holo   |
+| 14     | Raichu                    | Shadowless  |                      |       |           |           | Rare Holo   |
+| 15     | Venusaur                  | Shadowless  |                      |       |           |           | Rare Holo   |
+| 16     | Zapdos                    | Shadowless  |                      |       |           |           | Rare Holo   |
+| 17     | Beedrill                  | Shadowless  |                      | Yes   |           |           | Rare        |
+| 18     | Dragonair                 | Shadowless  |                      | Yes   | Excellent |           | Rare        |
+| 19     | Dugtrio                   | Shadowless  |                      |       |           |           | Rare        |
+| 20     | Electabuzz                | Shadowless  |                      |       |           |           | Rare        |
+| 21     | Electrode                 | Shadowless  |                      | Yes   |           |           | Rare        |
+| 22     | Pidgeotto                 | Shadowless  |                      |       |           |           | Rare        |
+| 23     | Arcanine                  | Shadowless  |                      | Yes   |           |           | Uncommon    |
+| 24     | Charmeleon                | Shadowless  |                      | Yes   |           |           | Uncommon    |
+| 25     | Dewgong                   | Shadowless  |                      | Yes   |           |           | Uncommon    |
+| 26     | Dratini                   | Shadowless  |                      | Yes   |           |           | Uncommon    |
+| 27     | Farfetch'd                | Shadowless  |                      | Yes   |           |           | Uncommon    |
+| 28     | Growlithe                 | Shadowless  |                      | Yes   |           |           | Uncommon    |
+| 29     | Haunter                   | Shadowless  |                      | Yes   |           |           | Uncommon    |
+| 30     | Ivysaur                   | Shadowless  |                      | Yes   |           |           | Uncommon    |
+| 31     | Jynx                      | Shadowless  |                      | Yes   |           |           | Uncommon    |
+| 32     | Kadabra                   | Shadowless  |                      |       |           |           | Uncommon    |
+| 33     | Kakuna                    | Shadowless  |                      | Yes   |           |           | Uncommon    |
+| 34     | Machoke                   | Shadowless  |                      | Yes   |           |           | Uncommon    |
+| 35     | Magikarp                  | Shadowless  |                      | Yes   |           |           | Uncommon    |
+| 36     | Magmar                    | Shadowless  |                      | Yes   |           |           | Uncommon    |
+| 37     | Nidorino                  | Shadowless  |                      | Yes   |           |           | Uncommon    |
+| 38     | Poliwhirl                 | Shadowless  |                      | Yes   |           |           | Uncommon    |
+| 39     | Porygon                   | Shadowless  |                      | Yes   |           |           | Uncommon    |
+| 40     | Raticate                  | Shadowless  |                      | Yes   |           |           | Uncommon    |
+| 41     | Seel                      | Shadowless  |                      | Yes   |           |           | Uncommon    |
+| 42     | Wartortle                 | Shadowless  |                      |       |           |           | Uncommon    |
+| 43     | Abra                      | Shadowless  |                      | Yes   |           |           | Common      |
+| 44     | Bulbasaur                 | Shadowless  |                      | Yes   |           |           | Common      |
+| 45     | Caterpie                  | Shadowless  |                      | Yes   |           |           | Common      |
+| 46     | Charmander                | Shadowless  |                      | Yes   |           |           | Common      |
+| 47     | Diglett                   | Shadowless  |                      | Yes   |           |           | Common      |
+| 48     | Doduo                     | Shadowless  |                      |       |           |           | Common      |
+| 49     | Drowzee                   | Shadowless  |                      | Yes   |           |           | Common      |
+| 50     | Gastly                    | Shadowless  |                      | Yes   |           |           | Common      |
+| 51     | Koffing                   | Shadowless  |                      | Yes   |           |           | Common      |
+| 52     | Machop                    | Shadowless  |                      | Yes   |           |           | Common      |
+| 53     | Magnemite                 | Shadowless  |                      | Yes   |           |           | Common      |
+| 54     | Metapod                   | Shadowless  |                      | Yes   |           |           | Common      |
+| 55     | Nidoran♂                  | Shadowless  |                      | Yes   |           |           | Common      |
+| 56     | Onix                      | Shadowless  |                      | Yes   |           |           | Common      |
+| 57     | Pidgey                    | Shadowless  |                      | Yes   |           |           | Common      |
+| 58     | Pikachu                   | Shadowless  | E3 Red Cheeks        |       |           |           | Common      |
+| 58     | Pikachu                   | Shadowless  | Yellow Cheeks        | Yes   | Excellent | 9         | Common      |
+| 58     | Pikachu                   | Shadowless  | Red Cheeks           | Yes   | Excellent | 10        | Common      |
+| 59     | Poliwag                   | Shadowless  |                      | Yes   |           |           | Common      |
+| 60     | Ponyta                    | Shadowless  |                      | Yes   |           |           | Common      |
+| 61     | Rattata                   | Shadowless  |                      | Yes   |           |           | Common      |
+| 62     | Sandshrew                 | Shadowless  |                      | Yes   |           |           | Common      |
+| 63     | Squirtle                  | Shadowless  | Red Triangle Err     | Yes   |           |           | Common      |
+| 63     | Squirtle                  | Shadowless  |                      | Yes   |           |           | Common      |
+| 64     | Starmie                   | Shadowless  |                      | Yes   |           |           | Common      |
+| 65     | Staryu                    | Shadowless  |                      | Yes   |           |           | Common      |
+| 66     | Tangela                   | Shadowless  |                      | Yes   |           |           | Common      |
+| 67     | Voltorb                   | Shadowless  |                      | Yes   |           |           | Common      |
+| 68     | Vulpix                    | Shadowless  |                      | Yes   |           |           | Common      |
+| 68     | Vulpix                    | Shadowless  | Blue Dot Err         |       |           |           | Common      |
+| 69     | Weedle                    | Shadowless  |                      | Yes   |           |           | Common      |
+| 70     | Clefairy Doll             | Shadowless  |                      | Yes   |           |           | Rare        |
+| 71     | Computer Search           | Shadowless  |                      | Yes   |           |           | Rare        |
+| 72     | Devolution Spray          | Shadowless  |                      | Yes   |           |           | Rare        |
+| 73     | Imposter Professor Oak    | Shadowless  |                      |       |           |           | Rare        |
+| 74     | Item Finder               | Shadowless  |                      |       |           |           | Rare        |
+| 75     | Lass                      | Shadowless  |                      | Yes   |           |           | Rare        |
+| 76     | Pokémon Breeder           | Shadowless  |                      | Yes   |           |           | Rare        |
+| 77     | Pokémon Trader            | Shadowless  |                      | Yes   |           |           | Rare        |
+| 78     | Scoop Up                  | Shadowless  |                      | Yes   |           |           | Rare        |
+| 79     | Super Energy Removal      | Shadowless  |                      | Yes   |           |           | Rare        |
+| 80     | Defender                  | Shadowless  |                      | Yes   |           |           | Uncommon    |
+| 81     | Energy Retrieval          | Shadowless  |                      | Yes   |           |           | Uncommon    |
+| 82     | Full Heal                 | Shadowless  |                      | Yes   |           |           | Uncommon    |
+| 83     | Maintenance               | Shadowless  |                      |       |           |           | Uncommon    |
+| 84     | PlusPower                 | Shadowless  |                      | Yes   |           |           | Uncommon    |
+| 85     | Pokémon Center            | Shadowless  |                      | Yes   |           |           | Uncommon    |
+| 86     | Pokémon Flute             | Shadowless  |                      |       |           |           | Uncommon    |
+| 87     | Pokédex                   | Shadowless  |                      | Yes   |           |           | Uncommon    |
+| 88     | Professor Oak             | Shadowless  |                      | Yes   |           |           | Uncommon    |
+| 89     | Revive                    | Shadowless  |                      | Yes   |           |           | Uncommon    |
+| 90     | Super Potion              | Shadowless  |                      | Yes   |           |           | Uncommon    |
+| 91     | Bill                      | Shadowless  |                      | Yes   |           |           | Common      |
+| 92     | Energy Removal            | Shadowless  |                      | Yes   |           |           | Common      |
+| 93     | Gust of Wind              | Shadowless  |                      | Yes   |           |           | Common      |
+| 94     | Potion                    | Shadowless  |                      | Yes   |           |           | Common      |
+| 95     | Switch                    | Shadowless  |                      | Yes   |           |           | Common      |
+| 96     | Double Colorless Energy   | Shadowless  |                      | Yes   |           |           | Common      |
+| 97     | Fighting Energy           | Shadowless  |                      | Yes   |           |           | Common      |
+| 98     | Fire Energy               | Shadowless  |                      | Yes   |           |           | Common      |
+| 99     | Grass Energy              | Shadowless  |                      | Yes   |           |           | Common      |
+| 100    | Lightning Energy          | Shadowless  |                      | Yes   |           |           | Common      |
+| 101    | Psychic Energy            | Shadowless  |                      | Yes   |           |           | Common      |
+| 102    | Water Energy              | Shadowless  |                      | Yes   |           |           | Common      |
+
+# 1999 Base Set - 3rd Print Unlimited
+
+# 2000 Base Set - 4th Print Unlimited
