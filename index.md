@@ -1,5 +1,7 @@
 # My WOTC Pokemon TCG Collection
 
+Based on my childhood collection, updated 2025-Apr-15
+
 ## 1999 Base Set - 1st Edition
 
 | Card # | Name                     | Edition | Special        | Owned | Condition | PSA Grade | Rarity      |
@@ -240,7 +242,7 @@
 | 5      | Clefairy               | 1999 Unlimited     | Red Heart Error         |       |           |           | Rare Holo   |
 | 6      | Gyarados               | 1999 Unlimited     |                         | Yes   |           | 7         | Rare Holo   |
 | 7      | Hitmonchan             | 1999 Unlimited     |                         |       |           |           | Rare Holo   |
-| 8      | Machamp                | 1999 Unlimited     | Trainer Deck A          |       |           |           | Rare Holo   |
+| 8      | Machamp                | 1999 Unlimited     | Trainer Deck A          |       |           |           | Rare        |
 | 8      | Machamp                | 1999 Unlimited     | 1st Ed-Cosmos Holofoil  | Yes   |           | 7         | Rare Holo   |
 | 9      | Magneton               | 1999 Unlimited     |                         |       |           |           | Rare Holo   |
 | 10     | Mewtwo                 | 1999 Unlimited     |                         |       |           |           | Rare Holo   |
@@ -473,9 +475,9 @@
 
 ## 1999 Jungle Set, 1st Edition
 
-| Card # | Card Name      | Edition | Special               | Owned | Condition | PSA Grade | Rarity         |
-| ------ | -------------- | ------- | --------------------- | ----- | --------- | --------- | -------------- |
-| 1      | Ivy Pikachu    | 1st     | Set Err               |       |           |           | Extremely Rare |
+| Card # | Card Name      | Edition | Special               | Owned | Condition | PSA Grade | Rarity      |
+| ------ | -------------- | ------- | --------------------- | ----- | --------- | --------- | ----------- |
+| 1      | Ivy Pikachu    | 1st     | Set Err               |       |           |           | Rare        |
 | 1      | Clefable       | 1st     |                       | Yes   | Excellent | 8         | Rare Holo   |
 | 2      | Electrode      | 1st     |                       | Yes   | Excellent | 8         | Rare Holo   |
 | 3      | Flareon        | 1st     |                       | Yes   | Excellent | 8         | Rare Holo   |
