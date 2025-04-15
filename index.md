@@ -470,3 +470,73 @@
 | 100    | Lightning Energy        | 2000 Unlimited   |                                 |       |           |           | Common      |
 | 101    | Psychic Energy          | 2000 Unlimited   |                                 |       |           |           | Common      |
 | 102    | Water Energy            | 2000 Unlimited   |                                 | Yes   |           |           | Common      |
+
+## 1999 Jungle Set, 1st Edition
+
+| Card # | Card Name      | Edition | Special               | Owned | Condition | PSA Grade | Rarity      |
+| ------ | -------------- | ------- | --------------------- | ----- | --------- | --------- | ----------- |
+| 1      | Ivy Pikachu    | 1st     | Set Err               |       |           |           | Extremely Rare |
+| 1      | Clefable       | 1st     |                       | Yes   |           | 8         | Rare Holo   |
+| 2      | Electrode      | 1st     |                       | Yes   |           | 8         | Rare Holo   |
+| 3      | Flareon        | 1st     |                       | Yes   |           | 8         | Rare Holo   |
+| 4      | Jolteon        | 1st     |                       |       |           |           | Rare Holo   |
+| 5      | Kangaskhan     | 1st     |                       | Yes   |           | 9         | Rare Holo   |
+| 6      | Mr. Mime       | 1st     |                       | Yes   |           | 9         | Rare Holo   |
+| 7      | Nidoqueen      | 1st     |                       | Yes   |           | 9         | Rare Holo   |
+| 8      | Pidgeot        | 1st     |                       |       |           |           | Rare Holo   |
+| 9      | Pinsir         | 1st     |                       | Yes   |           | 7         | Rare Holo   |
+| 10     | Scyther        | 1st     |                       |       |           |           | Rare Holo   |
+| 11     | Snorlax        | 1st     |                       |       |           |           | Rare Holo   |
+| 12     | Vaporeon       | 1st     |                       | Yes   |           | 9         | Rare Holo   |
+| 13     | Venomoth       | 1st     |                       |       |           |           | Rare Holo   |
+| 14     | Victreebel     | 1st     |                       |       |           |           | Rare Holo   |
+| 15     | Vileplume      | 1st     |                       |       |           |           | Rare Holo   |
+| 16     | Wigglytuff     | 1st     |                       | Yes   |           | 8         | Rare Holo   |
+| 17     | Clefable       | 1st     |                       | Yes   |           |           | Rare        |
+| 18     | Electrode      | 1st     | Art Err               | Yes   |           |           | Rare        |
+| 19     | Flareon        | 1st     |                       | Yes   |           |           | Rare        |
+| 20     | Jolteon        | 1st     |                       | Yes   |           |           | Rare        |
+| 22     | Mr. Mime       | 1st     |                       | Yes   |           |           | Rare        |
+| 23     | Nidoqueen      | 1st     |                       | Yes   |           |           | Rare        |
+| 24     | Pidgeot        | 1st     |                       |       |           |           | Rare        |
+| 25     | Pinsir         | 1st     |                       |       |           |           | Rare        |
+| 26     | Scyther        | 1st     |                       | Yes   |           |           | Rare        |
+| 27     | Snorlax        | 1st     |                       |       |           |           | Rare        |
+| 28     | Vaporeon       | 1st     |                       | Yes   |           |           | Rare        |
+| 29     | Venomoth       | 1st     |                       |       |           |           | Rare        |
+| 30     | Victreebel     | 1st     |                       | Yes   |           |           | Rare        |
+| 31     | Vileplume      | 1st     |                       | Yes   |           |           | Rare        |
+| 32     | Wigglytuff     | 1st     |                       | Yes   |           |           | Rare        |
+| 33     | Butterfree     | 1st     |                       | Yes   |           |           | Uncommon    |
+| 34     | Dodrio         | 1st     |                       | Yes   |           |           | Uncommon    |
+| 35     | Exeggutor      | 1st     |                       | Yes   |           |           | Uncommon    |
+| 36     | Fearow         | 1st     |                       | Yes   |           |           | Uncommon    |
+| 37     | Gloom          | 1st     |                       | Yes   |           |           | Uncommon    |
+| 38     | Lickitung      | 1st     |                       | Yes   |           |           | Uncommon    |
+| 39     | Marowak        | 1st     |                       | Yes   |           |           | Uncommon    |
+| 40     | Nidorina       | 1st     |                       | Yes   |           |           | Uncommon    |
+| 41     | Parasect       | 1st     |                       | Yes   |           |           | Uncommon    |
+| 42     | Persian        | 1st     |                       | Yes   |           |           | Uncommon    |
+| 43     | Primeape       | 1st     |                       | Yes   |           |           | Uncommon    |
+| 44     | Rapidash       | 1st     |                       | Yes   |           |           | Uncommon    |
+| 45     | Rhydon         | 1st     |                       | Yes   |           |           | Uncommon    |
+| 46     | Seaking        | 1st     |                       | Yes   |           |           | Uncommon    |
+| 47     | Tauros         | 1st     |                       | Yes   |           |           | Uncommon    |
+| 48     | Weepinbell     | 1st     |                       | Yes   |           |           | Uncommon    |
+| 49     | Bellsprout     | 1st     |                       | Yes   |           |           | Common      |
+| 50     | Cubone         | 1st     |                       | Yes   |           |           | Common      |
+| 51     | Eevee          | 1st     |                       | Yes   |           |           | Common      |
+| 52     | Exeggcute      | 1st     |                       | Yes   |           |           | Common      |
+| 53     | Goldeen        | 1st     |                       | Yes   |           |           | Common      |
+| 54     | Jigglypuff     | 1st     |                       | Yes   |           |           | Common      |
+| 55     | Mankey         | 1st     |                       | Yes   |           |           | Common      |
+| 56     | Meowth         | 1st     |                       | Yes   |           |           | Common      |
+| 57     | Nidoran♀       | 1st     |                       | Yes   |           |           | Common      |
+| 58     | Oddish         | 1st     |                       | Yes   |           |           | Common      |
+| 59     | Paras          | 1st     |                       | Yes   |           |           | Common      |
+| 60     | Pikachu        | 1st     |                       | Yes   |           |           | Common      |
+| 60     | Pikachu        | 1st     | Wizard (W) stamp      | Yes   |           |           | Common      |
+| 61     | Rhyhorn        | 1st     |                       | Yes   |           |           | Common      |
+| 62     | Spearow        | 1st     |                       | Yes   |           |           | Common      |
+| 63     | Venonat        | 1st     |                       | Yes   |           |           | Common      |
+| 64     | Poké Ball      | 1st     |                       | Yes   |           |           | Common      |
