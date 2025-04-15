@@ -473,7 +473,7 @@ Based on my childhood collection, updated 2025-Apr-15
 | 101    | Psychic Energy          | 2000 Unlimited     |                                 |       |           |           | Common      |
 | 102    | Water Energy            | 2000 Unlimited     |                                 | Yes   |           |           | Common      |
 
-## 1999 Jungle Set, 1st Edition
+## 1999 Jungle, 1st Edition
 
 | Card # | Card Name      | Edition | Special               | Owned | Condition | PSA Grade | Rarity      |
 | ------ | -------------- | ------- | --------------------- | ----- | --------- | --------- | ----------- |
@@ -543,3 +543,47 @@ Based on my childhood collection, updated 2025-Apr-15
 | 62     | Spearow        | 1st     |                       | Yes   |           |           | Common      |
 | 63     | Venonat        | 1st     |                       | Yes   |           |           | Common      |
 | 64     | Poké Ball      | 1st     |                       | Yes   |           |           | Common      |
+
+## 1999 Jungle, 2nd Print Unlimited
+
+tbd
+
+## 1999 Fossil, 1st Edition
+
+tbd
+
+## 1999 Fossil, 2nd Print Unlimited
+
+tbd
+
+## 2000 Team Rocket, 1st Edition
+
+tbd
+
+## 2000 Team Rocket, 2nd Print Unlimited
+
+tbd
+
+## 2000 Gym Heroes, 1st Edition
+
+tbd
+
+## 2000 Gym Heroes, 2nd Print Unlimited
+
+tbd
+
+## 2000 Gym Challenge, 1st Edition
+
+tbd
+
+## 2000 Gym Challenge, 2nd Print Unlimited
+
+tbd
+
+## 2000 Neo Genesis, 1st Edition
+
+tbd
+
+## 2000 Neo Genesis, 2nd Print Unlimited
+
+tbd
