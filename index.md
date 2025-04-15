@@ -1,4 +1,6 @@
-# 1999 Base Set - 1st Edition
+# My WOTC Pokemon TCG Collection
+
+## 1999 Base Set - 1st Edition
 
 | Card # | Name                     | Edition | Special        | Owned | Condition | PSA Grade | Rarity      |
 | ------ | ------------------------ | ------- | -------------- | ----- | --------- | --------- | ----------- |
@@ -107,7 +109,7 @@
 | 101    | Psychic Energy           | 1st     |                | Yes   |           |           | Common      |
 | 102    | Water Energy             | 1st     |                | Yes   |           |           | Common      |
 
-# 1999 Base Set - 2nd Print Shadowless
+## 1999 Base Set - 2nd Print Shadowless
 
 | Card # | Name                      | Edition     | Special              | Owned | Condition | PSA Grade | Rarity      |
 | ------ | ------------------------- | ----------- | -------------------- | ----- | --------- | --------- | ----------- |
@@ -219,7 +221,7 @@
 | 101    | Psychic Energy            | Shadowless  |                      | Yes   |           |           | Common      |
 | 102    | Water Energy              | Shadowless  |                      | Yes   |           |           | Common      |
 
-# 1999 Base Set - 3rd Print Unlimited
+## 1999 Base Set - 3rd Print Unlimited
 
 | Card # | Name                   | Edition          | Special                 | Owned | Condition | PSA Grade | Rarity      |
 | ------ | ---------------------- | ---------------- | ----------------------- | ----- | --------- | --------- | ----------- |
@@ -227,7 +229,7 @@
 | 2      | Blastoise              | 1999 Unlimited   | Illus Error             |       |           |           | Rare Holo   |
 | 2      | Blastoise              | 1999 Unlimited   | Trainder Deck B         |       |           |           | Rare        |
 | 2      | Blastoise              | 1999 Unlimited   | Stage Error             |       |           |           | Rare Holo   |
-| 2      | Blastoise              | 1999 Unlimited   |                         | Yes   |           | 10        | Rare Holo   |
+| 2      | Blastoise              | 1999 Unlimited   |                         | Yes   | Excellent | 10        | Rare Holo   |
 | 3      | Chansey                | 1999 Unlimited   |                         |       |           |           | Rare Holo   |
 | 3      | Chansey                | 1999 Unlimited   | Black Dot Error         |       |           |           | Rare Holo   |
 | 4      | Charizard              | 1999 Unlimited   |                         |       |           |           | Rare Holo   |
@@ -301,7 +303,7 @@
 | 56     | Onix                   | 1999 Unlimited   |                         | Yes   |           |           | Common      |
 | 57     | Pidgey                 | 1999 Unlimited   | Trainer Deck B          |       |           |           | Common      |
 | 57     | Pidgey                 | 1999 Unlimited   |                         | Yes   |           |           | Common      |
-| 58     | Pikachu                | 1999 Unlimited   | Australia PokeTour      | Yes   |           | 9         | Common      |
+| 58     | Pikachu                | 1999 Unlimited   | Australia PokeTour      | Yes   | Excellent | 9         | Common      |
 | 58     | Pikachu                | 1999 Unlimited   | E3 Yellow Cheeks        | Yes   |           | 6         | Common      |
 | 58     | Pikachu                | 1999 Unlimited   | Yellow Cheeks           | Yes   |           | 9         | Common      |
 | 59     | Poliwag                | 1999 Unlimited   |                         | Yes   |           |           | Common      |
@@ -366,4 +368,105 @@
 | 102    | Water Energy           | 1999 Unlimited   |                         |       |           |           | Common      |
 | 102    | Water Energy           | 1999 Unlimited   | Print Err               |       |           |           | Common      |
 
-# 2000 Base Set - 4th Print Unlimited
+## 2000 Base Set - 4th Print Unlimited
+
+| Card # | Name                    | Edition          | Special                         | Owned | Condition | PSA Grade | Rarity      |
+| ------ | ----------------------- | ---------------- | ------------------------------- | ----- | --------- | --------- | ----------- |
+| 1      | Alakazam                | 2000 Unlimited   |                                 |       |           |           | Rare Holo   |
+| 2      | Blastoise               | 2000 Unlimited   |                                 |       |           |           | Rare Holo   |
+| 3      | Chansey                 | 2000 Unlimited   |                                 |       |           |           | Rare Holo   |
+| 4      | Charizard               | 2000 Unlimited   |                                 |       |           |           | Rare Holo   |
+| 5      | Clefairy                | 2000 Unlimited   |                                 |       |           |           | Rare Holo   |
+| 6      | Gyarados                | 2000 Unlimited   |                                 | Yes   | Excellent | 9         | Rare Holo   |
+| 7      | Hitmonchan              | 2000 Unlimited   |                                 | Yes   | Excellent | 8         | Rare Holo   |
+| 8      | Machamp                 | 2000 Unlimited   | 1st Ed-Base Set 1999-2000       | Yes   | Excellent | 8         | Rare Holo   |
+| 9      | Magneton                | 2000 Unlimited   |                                 |       |           |           | Rare Holo   |
+| 10     | Mewtwo                  | 2000 Unlimited   |                                 |       |           |           | Rare Holo   |
+| 11     | Nidoking                | 2000 Unlimited   |                                 |       |           |           | Rare Holo   |
+| 12     | Ninetales               | 2000 Unlimited   |                                 | Yes   | Excellent | 9         | Rare Holo   |
+| 13     | Poliwrath               | 2000 Unlimited   |                                 |       |           |           | Rare Holo   |
+| 14     | Raichu                  | 2000 Unlimited   |                                 |       |           |           | Rare Holo   |
+| 15     | Venusaur                | 2000 Unlimited   |                                 |       |           |           | Rare Holo   |
+| 16     | Zapdos                  | 2000 Unlimited   |                                 |       |           |           | Rare Holo   |
+| 17     | Beedrill                | 2000 Unlimited   |                                 | Yes   |           |           | Rare        |
+| 18     | Dragonair               | 2000 Unlimited   |                                 |       |           |           | Rare        |
+| 19     | Dugtrio                 | 2000 Unlimited   |                                 |       |           |           | Rare        |
+| 20     | Electabuzz              | 2000 Unlimited   |                                 |       |           |           | Rare        |
+| 21     | Electrode               | 2000 Unlimited   |                                 |       |           |           | Rare        |
+| 22     | Pidgeotto               | 2000 Unlimited   |                                 |       |           |           | Rare        |
+| 23     | Arcanine                | 2000 Unlimited   |                                 | Yes   |           |           | Uncommon    |
+| 24     | Charmeleon              | 2000 Unlimited   |                                 | Yes   |           |           | Uncommon    |
+| 25     | Dewgong                 | 2000 Unlimited   |                                 |       |           |           | Uncommon    |
+| 26     | Dratini                 | 2000 Unlimited   |                                 | Yes   |           |           | Uncommon    |
+| 27     | Farfetch'd              | 2000 Unlimited   |                                 | Yes   |           |           | Uncommon    |
+| 28     | Growlithe               | 2000 Unlimited   |                                 | Yes   |           |           | Uncommon    |
+| 29     | Haunter                 | 2000 Unlimited   |                                 |       |           |           | Uncommon    |
+| 30     | Ivysaur                 | 2000 Unlimited   |                                 | Yes   |           |           | Uncommon    |
+| 31     | Jynx                    | 2000 Unlimited   |                                 |       |           |           | Uncommon    |
+| 32     | Kadabra                 | 2000 Unlimited   |                                 |       |           |           | Uncommon    |
+| 33     | Kakuna                  | 2000 Unlimited   |                                 | Yes   |           |           | Uncommon    |
+| 34     | Machoke                 | 2000 Unlimited   |                                 | Yes   |           |           | Uncommon    |
+| 35     | Magikarp                | 2000 Unlimited   |                                 | Yes   |           |           | Uncommon    |
+| 36     | Magmar                  | 2000 Unlimited   |                                 |       |           |           | Uncommon    |
+| 37     | Nidorino                | 2000 Unlimited   |                                 |       |           |           | Uncommon    |
+| 38     | Poliwhirl               | 2000 Unlimited   |                                 |       |           |           | Uncommon    |
+| 39     | Porygon                 | 2000 Unlimited   |                                 |       |           |           | Uncommon    |
+| 40     | Raticate                | 2000 Unlimited   |                                 |       |           |           | Uncommon    |
+| 41     | Seel                    | 2000 Unlimited   |                                 |       |           |           | Uncommon    |
+| 42     | Wartortle               | 2000 Unlimited   |                                 | Yes   |           |           | Uncommon    |
+| 43     | Abra                    | 2000 Unlimited   |                                 |       |           |           | Common      |
+| 44     | Bulbasaur               | 2000 Unlimited   |                                 | Yes   |           |           | Common      |
+| 45     | Caterpie                | 2000 Unlimited   |                                 |       |           |           | Common      |
+| 46     | Charmander              | 2000 Unlimited   |                                 | Yes   |           |           | Common      |
+| 47     | Diglett                 | 2000 Unlimited   |                                 | Yes   |           |           | Common      |
+| 48     | Doduo                   | 2000 Unlimited   |                                 |       |           |           | Common      |
+| 49     | Drowzee                 | 2000 Unlimited   |                                 |       |           |           | Common      |
+| 50     | Gastly                  | 2000 Unlimited   |                                 |       |           |           | Common      |
+| 51     | Koffing                 | 2000 Unlimited   |                                 |       |           |           | Common      |
+| 52     | Machop                  | 2000 Unlimited   |                                 | Yes   |           |           | Common      |
+| 53     | Magnemite               | 2000 Unlimited   |                                 |       |           |           | Common      |
+| 54     | Metapod                 | 2000 Unlimited   |                                 |       |           |           | Common      |
+| 55     | Nidoran♂                | 2000 Unlimited   |                                 | Yes   |           |           | Common      |
+| 56     | Onix                    | 2000 Unlimited   |                                 | Yes   |           |           | Common      |
+| 57     | Pidgey                  | 2000 Unlimited   |                                 |       |           |           | Common      |
+| 58     | Pikachu                 | 2000 Unlimited   |                                 | Yes   | Excellent | 10        | Common      |
+| 60     | Ponyta                  | 2000 Unlimited   |                                 | Yes   |           |           | Common      |
+| 61     | Rattata                 | 2000 Unlimited   |                                 | Yes   |           |           | Common      |
+| 63     | Squirtle                | 2000 Unlimited   |                                 | Yes   |           |           | Common      |
+| 65     | Staryu                  | 2000 Unlimited   |                                 | Yes   |           |           | Common      |
+| 66     | Tangela                 | 2000 Unlimited   |                                 | Yes   |           |           | Common      |
+| 67     | Voltorb                 | 2000 Unlimited   |                                 |       |           |           | Common      |
+| 68     | Vulpix                  | 2000 Unlimited   |                                 | Yes   |           |           | Common      |
+| 69     | Weedle                  | 2000 Unlimited   |                                 | Yes   |           |           | Common      |
+| 70     | Clefairy Doll           | 2000 Unlimited   |                                 |       |           |           | Rare        |
+| 71     | Computer Search         | 2000 Unlimited   |                                 |       |           |           | Rare        |
+| 72     | Devolution Spray        | 2000 Unlimited   |                                 |       |           |           | Rare        |
+| 73     | Imposter Professor Oak  | 2000 Unlimited   |                                 |       |           |           | Rare        |
+| 74     | Item Finder             | 2000 Unlimited   |                                 |       |           |           | Rare        |
+| 75     | Lass                    | 2000 Unlimited   |                                 | Yes   |           |           | Rare        |
+| 76     | Pokémon Breeder         | 2000 Unlimited   |                                 |       |           |           | Rare        |
+| 77     | Pokémon Trader          | 2000 Unlimited   |                                 |       |           |           | Rare        |
+| 78     | Scoop Up                | 2000 Unlimited   |                                 |       |           |           | Rare        |
+| 79     | Super Energy Removal    | 2000 Unlimited   |                                 | Yes   |           |           | Uncommon    |
+| 80     | Defender                | 2000 Unlimited   |                                 |       |           |           | Uncommon    |
+| 81     | Energy Retrieval        | 2000 Unlimited   |                                 | Yes   |           |           | Uncommon    |
+| 82     | Full Heal               | 2000 Unlimited   |                                 |       |           |           | Uncommon    |
+| 83     | Maintenance             | 2000 Unlimited   |                                 |       |           |           | Uncommon    |
+| 84     | PlusPower               | 2000 Unlimited   |                                 | Yes   |           |           | Uncommon    |
+| 85     | Pokémon Center          | 2000 Unlimited   |                                 |       |           |           | Uncommon    |
+| 86     | Pokémon Flute           | 2000 Unlimited   |                                 |       |           |           | Uncommon    |
+| 87     | Pokédex                 | 2000 Unlimited   |                                 | Yes   |           |           | Uncommon    |
+| 88     | Professor Oak           | 2000 Unlimited   |                                 | Yes   |           |           | Uncommon    |
+| 90     | Super Potion            | 2000 Unlimited   |                                 | Yes   |           |           | Uncommon    |
+| 91     | Bill                    | 2000 Unlimited   |                                 | Yes   |           |           | Common      |
+| 92     | Energy Removal          | 2000 Unlimited   |                                 | Yes   |           |           | Common      |
+| 93     | Gust of Wind            | 2000 Unlimited   |                                 | Yes   |           |           | Common      |
+| 94     | Potion                  | 2000 Unlimited   |                                 | Yes   |           |           | Common      |
+| 95     | Switch                  | 2000 Unlimited   |                                 | Yes   |           |           | Common      |
+| 96     | Double Colorless Energy | 2000 Unlimited   |                                 |       |           |           | Common      |
+| 97     | Fighting Energy         | 2000 Unlimited   |                                 | Yes   |           |           | Common      |
+| 98     | Fire Energy             | 2000 Unlimited   |                                 | Yes   |           |           | Common      |
+| 99     | Grass Energy            | 2000 Unlimited   |                                 | Yes   |           |           | Common      |
+| 100    | Lightning Energy        | 2000 Unlimited   |                                 |       |           |           | Common      |
+| 101    | Psychic Energy          | 2000 Unlimited   |                                 |       |           |           | Common      |
+| 102    | Water Energy            | 2000 Unlimited   |                                 | Yes   |           |           | Common      |
