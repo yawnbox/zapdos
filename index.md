@@ -3,6 +3,10 @@
 Updated 2025-Apr-25
 
 1. [1999 Base Set - 1st Edition](#1999-Base-Set---1st-Edition)
+2. [1999 Base Set - 2nd Print Shadowless](#1999-Base-Set---2nd-Print-Shadowless)
+3. [1999 Base Set - 3rd Print Unlimited](#1999-Base-Set---3rd-Print-Unlimited)
+4. [2000 Base Set - 4th Print Unlimited](#2000-Base-Set---4th-Print-Unlimited)
+5. [1999 Jungle - 1st Edition](#1999-Jungle---1st-Edition)
 
 ## 1999 Base Set - 1st Edition
 
@@ -475,7 +479,7 @@ Updated 2025-Apr-25
 | 101    | Psychic Energy          | 2000 Unlim.     |                                 |       |           |           | Common      |
 | 102    | Water Energy            | 2000 Unlim.     |                                 | Yes   |           |           | Common      |
 
-## 1999 Jungle, 1st Edition
+## 1999 Jungle - 1st Edition
 
 |      # | Card Name      | Edition | Special               | Owned | Condition | PSA Grade | Rarity      |
 | ------ | -------------- | ------- | --------------------- | ----- | --------- | --------- | ----------- |
