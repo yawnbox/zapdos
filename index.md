@@ -225,150 +225,150 @@ Based on my childhood collection, updated 2025-Apr-15
 
 ## 1999 Base Set - 3rd Print Unlimited
 
-|      # | Name                   | Edition           | Special                 | Owned | Condition | PSA Grade | Rarity      |
-| ------ | ---------------------- | ----------------- | ----------------------- | ----- | --------- | --------- | ----------- |
-| 1      | Alakazam               | '99 Unlimited     |                         |       |           |           | Rare Holo   |
-| 2      | Blastoise              | '99 Unlimited     | Illus Error             |       |           |           | Rare Holo   |
-| 2      | Blastoise              | '99 Unlimited     | Trainder Deck B         |       |           |           | Rare        |
-| 2      | Blastoise              | '99 Unlimited     | Stage Error             |       |           |           | Rare Holo   |
-| 2      | Blastoise              | '99 Unlimited     |                         | Yes   | Excellent | 10        | Rare Holo   |
-| 3      | Chansey                | '99 Unlimited     |                         |       |           |           | Rare Holo   |
-| 3      | Chansey                | '99 Unlimited     | Black Dot Error         |       |           |           | Rare Holo   |
-| 4      | Charizard              | '99 Unlimited     |                         |       |           |           | Rare Holo   |
-| 4      | Charizard              | '99 Unlimited     | Black Dot Error         |       |           |           | Rare Holo   |
-| 4      | Charizard              | '99 Unlimited     | Incomplete Holo Error   |       |           |           | Rare Holo   |
-| 5      | Clefairy               | '99 Unlimited     |                         | Yes   |           | 5         | Rare Holo   |
-| 5      | Clefairy               | '99 Unlimited     | Black Dot Error         |       |           |           | Rare Holo   |
-| 5      | Clefairy               | '99 Unlimited     | Red Heart Error         |       |           |           | Rare Holo   |
-| 6      | Gyarados               | '99 Unlimited     |                         | Yes   |           | 7         | Rare Holo   |
-| 7      | Hitmonchan             | '99 Unlimited     |                         |       |           |           | Rare Holo   |
-| 8      | Machamp                | '99 Unlimited     | Trainer Deck A          |       |           |           | Rare        |
-| 8      | Machamp                | '99 Unlimited     | 1st Ed-Cosmos Holofoil  | Yes   |           | 7         | Rare Holo   |
-| 9      | Magneton               | '99 Unlimited     |                         |       |           |           | Rare Holo   |
-| 10     | Mewtwo                 | '99 Unlimited     |                         |       |           |           | Rare Holo   |
-| 11     | Nidoking               | '99 Unlimited     |                         |       |           |           | Rare Holo   |
-| 12     | Ninetales              | '99 Unlimited     | Black Flame error       |       |           |           | Rare Holo   |
-| 12     | Ninetales              | '99 Unlimited     |                         |       |           |           | Rare Holo   |
-| 13     | Poliwrath              | '99 Unlimited     |                         |       |           |           | Rare Holo   |
-| 14     | Raichu                 | '99 Unlimited     |                         |       |           |           | Rare Holo   |
-| 15     | Venusaur               | '99 Unlimited     |                         | Yes   |           | 7         | Rare Holo   |
-| 15     | Venusaur               | '99 Unlimited     | Missing Ink Error       |       |           |           | Rare Holo   |
-| 16     | Zapdos                 | '99 Unlimited     |                         |       |           |           | Rare Holo   |
-| 17     | Beedrill               | '99 Unlimited     |                         | Yes   |           |           | Rare        |
-| 17     | Beedrill               | '99 Unlimited     | "D.Efending" Error      |       |           |           | Rare        |
-| 18     | Dragonair              | '99 Unlimited     |                         | Yes   |           |           | Rare        |
-| 19     | Dugtrio                | '99 Unlimited     |                         | Yes   |           |           | Rare        |
-| 20     | Electabuzz             | '99 Unlimited     |                         | Yes   |           |           | Rare        |
-| 21     | Electrode              | '99 Unlimited     |                         | Yes   |           |           | Rare        |
-| 22     | Pidgeotto              | '99 Unlimited     | Trainer Deck B          |       |           |           | Rare        |
-| 22     | Pidgeotto              | '99 Unlimited     |                         | Yes   |           |           | Rare        |
-| 23     | Arcanine               | '99 Unlimited     |                         | Yes   |           |           | Uncommon    |
-| 24     | Charmeleon             | '99 Unlimited     |                         | Yes   |           |           | Uncommon    |
-| 25     | Dewgong                | '99 Unlimited     |                         | Yes   |           |           | Uncommon    |
-| 26     | Dratini                | '99 Unlimited     |                         | Yes   |           |           | Uncommon    |
-| 27     | Farfetch'd             | '99 Unlimited     |                         | Yes   |           |           | Uncommon    |
-| 28     | Growlithe              | '99 Unlimited     |                         | Yes   |           |           | Uncommon    |
-| 29     | Haunter                | '99 Unlimited     |                         | Yes   |           |           | Uncommon    |
-| 30     | Ivysaur                | '99 Unlimited     |                         |       |           |           | Uncommon    |
-| 31     | Jynx                   | '99 Unlimited     |                         | Yes   |           |           | Uncommon    |
-| 32     | Kadabra                | '99 Unlimited     |                         | Yes   |           |           | Uncommon    |
-| 33     | Kakuna                 | '99 Unlimited     |                         | Yes   |           |           | Uncommon    |
-| 34     | Machoke                | '99 Unlimited     | Trainer Deck A          |       |           |           | Uncommon    |
-| 34     | Machoke                | '99 Unlimited     |                         | Yes   |           |           | Uncommon    |
-| 35     | Magikarp               | '99 Unlimited     |                         | Yes   |           |           | Uncommon    |
-| 36     | Magmar                 | '99 Unlimited     |                         | Yes   |           |           | Uncommon    |
-| 37     | Nidorino               | '99 Unlimited     |                         | Yes   |           |           | Uncommon    |
-| 38     | Poliwhirl              | '99 Unlimited     |                         | Yes   |           |           | Uncommon    |
-| 39     | Porygon                | '99 Unlimited     |                         | Yes   |           |           | Uncommon    |
-| 40     | Raticate               | '99 Unlimited     | Trainer Deck A          |       |           |           | Uncommon    |
-| 40     | Raticate               | '99 Unlimited     |                         | Yes   |           |           | Uncommon    |
-| 41     | Seel                   | '99 Unlimited     | Trainer Deck B          |       |           |           | Uncommon    |
-| 41     | Seel                   | '99 Unlimited     |                         | Yes   |           |           | Uncommon    |
-| 42     | Wartortle              | '99 Unlimited     | Trainer Deck B          |       |           |           | Uncommon    |
-| 42     | Wartortle              | '99 Unlimited     | Evolution Box Err       | Yes   |           |           | Uncommon    |
-| 42     | Wartortle              | '99 Unlimited     |                         | Yes   |           |           | Uncommon    |
-| 43     | Abra                   | '99 Unlimited     |                         | Yes   |           |           | Common      |
-| 44     | Bulbasaur              | '99 Unlimited     |                         | Yes   |           |           | Common      |
-| 45     | Caterpie               | '99 Unlimited     |                         | Yes   |           |           | Common      |
-| 46     | Charmander             | '99 Unlimited     |                         | Yes   |           |           | Common      |
-| 47     | Diglett                | '99 Unlimited     |                         | Yes   |           |           | Common      |
-| 48     | Doduo                  | '99 Unlimited     |                         | Yes   |           |           | Common      |
-| 49     | Drowzee                | '99 Unlimited     |                         | Yes   |           |           | Common      |
-| 50     | Gastly                 | '99 Unlimited     |                         | Yes   |           |           | Common      |
-| 51     | Koffing                | '99 Unlimited     |                         | Yes   |           |           | Common      |
-| 52     | Machop                 | '99 Unlimited     | Trainer Deck A          |       |           |           | Common      |
-| 52     | Machop                 | '99 Unlimited     |                         | Yes   |           |           | Common      |
-| 53     | Magnemite              | '99 Unlimited     |                         | Yes   |           |           | Common      |
-| 54     | Metapod                | '99 Unlimited     |                         | Yes   |           |           | Common      |
-| 55     | Nidoran♂               | '99 Unlimited     |                         | Yes   |           |           | Common      |
-| 56     | Onix                   | '99 Unlimited     | Trainer Deck A          |       |           |           | Common      |
-| 56     | Onix                   | '99 Unlimited     |                         | Yes   |           |           | Common      |
-| 57     | Pidgey                 | '99 Unlimited     | Trainer Deck B          |       |           |           | Common      |
-| 57     | Pidgey                 | '99 Unlimited     |                         | Yes   |           |           | Common      |
-| 58     | Pikachu                | '99 Unlimited     | Australia PokeTour      | Yes   | Excellent | 9         | Common      |
-| 58     | Pikachu                | '99 Unlimited     | E3 Yellow Cheeks        | Yes   |           | 6         | Common      |
-| 58     | Pikachu                | '99 Unlimited     | Yellow Cheeks           | Yes   |           | 9         | Common      |
-| 59     | Poliwag                | '99 Unlimited     |                         | Yes   |           |           | Common      |
-| 59     | Poliwag                | '99 Unlimited     | 1999-2000 4th Print     |       |           |           | Common      |
-| 60     | Ponyta                 | '99 Unlimited     |                         | Yes   |           |           | Common      |
-| 61     | Rattata                | '99 Unlimited     | Trainer Deck A          |       |           |           | Common      |
-| 61     | Rattata                | '99 Unlimited     |                         | Yes   |           |           | Common      |
-| 62     | Sandshrew              | '99 Unlimited     | Trainer Deck A          |       |           |           | Common      |
-| 62     | Sandshrew              | '99 Unlimited     |                         | Yes   |           |           | Common      |
-| 62     | Sandshrew              | '99 Unlimited     | 1999-2000 4th Print     | Yes   |           |           | Common      |
-| 63     | Squirtle               | '99 Unlimited     | Trainer Deck B          |       |           |           | Common      |
-| 63     | Squirtle               | '99 Unlimited     |                         | Yes   |           |           | Common      |
-| 64     | Starmie                | '99 Unlimited     | Trainer Deck B          |       |           |           | Common      |
-| 64     | Starmie                | '99 Unlimited     |                         | Yes   |           |           | Common      |
-| 64     | Starmie                | '99 Unlimited     | 1999-2000 4th Print     | Yes   |           |           | Common      |
-| 65     | Staryu                 | '99 Unlimited     | Trainer Deck B          |       |           |           | Common      |
-| 65     | Staryu                 | '99 Unlimited     |                         | Yes   |           |           | Common      |
-| 66     | Tangela                | '99 Unlimited     |                         | Yes   |           |           | Common      |
-| 67     | Voltorb                | '99 Unlimited     |                         | Yes   |           |           | Common      |
-| 68     | Vulpix                 | '99 Unlimited     |                         | Yes   |           |           | Common      |
-| 69     | Weedle                 | '99 Unlimited     |                         | Yes   |           |           | Common      |
-| 70     | Clefairy Doll          | '99 Unlimited     |                         | Yes   |           |           | Rare        |
-| 71     | Computer Search        | '99 Unlimited     | Trainer Deck B          |       |           |           | Rare        |
-| 71     | Computer Search        | '99 Unlimited     |                         | Yes   |           |           | Rare        |
-| 72     | Devolution Spray       | '99 Unlimited     |                         |       |           |           | Rare        |
-| 73     | Imposter Professor Oak | '99 Unlimited     |                         |       |           |           | Rare        |
-| 74     | Item Finder            | '99 Unlimited     |                         |       |           |           | Rare        |
-| 75     | Lass                   | '99 Unlimited     |                         |       |           |           | Rare        |
-| 76     | Pokémon Breeder        | '99 Unlimited     |                         |       |           |           | Rare        |
-| 77     | Pokémon Trader         | '99 Unlimited     | Trainer Deck B          |       |           |           | Rare        |
-| 77     | Pokémon Trader         | '99 Unlimited     |                         |       |           |           | Rare        |
-| 78     | Scoop Up               | '99 Unlimited     |                         |       |           |           | Rare        |
-| 79     | Super Energy Removal   | '99 Unlimited     |                         |       |           |           | Rare        |
-| 80     | Defender               | '99 Unlimited     | Trainer Deck A          |       |           |           | Uncommon    |
-| 80     | Defender               | '99 Unlimited     |                         |       |           |           | Uncommon    |
-| 81     | Energy Retrieval       | '99 Unlimited     |                         |       |           |           | Uncommon    |
-| 82     | Full Heal              | '99 Unlimited     |                         |       |           |           | Uncommon    |
-| 83     | Maintenance            | '99 Unlimited     |                         |       |           |           | Uncommon    |
-| 84     | PlusPower              | '99 Unlimited     |                         |       |           |           | Uncommon    |
-| 85     | Pokémon Center         | '99 Unlimited     |                         |       |           |           | Uncommon    |
-| 86     | Pokémon Flute          | '99 Unlimited     |                         |       |           |           | Uncommon    |
-| 87     | Pokédex                | '99 Unlimited     |                         |       |           |           | Uncommon    |
-| 88     | Professor Oak          | '99 Unlimited     |                         |       |           |           | Uncommon    |
-| 89     | Revive                 | '99 Unlimited     |                         |       |           |           | Uncommon    |
-| 90     | Super Potion           | '99 Unlimited     | Trainer Deck A          |       |           |           | Uncommon    |
-| 90     | Super Potion           | '99 Unlimited     |                         |       |           |           | Uncommon    |
-| 91     | Bill                   | '99 Unlimited     |                         |       |           |           | Common      |
-| 92     | Energy Removal         | '99 Unlimited     | Trainer Deck B          |       |           |           | Common      |
-| 92     | Energy Removal         | '99 Unlimited     |                         |       |           |           | Common      |
-| 93     | Gust of Wind           | '99 Unlimited     |                         |       |           |           | Common      |
-| 94     | Potion                 | '99 Unlimited     | Trainer Deck A          |       |           |           | Common      |
-| 94     | Potion                 | '99 Unlimited     |                         |       |           |           | Common      |
-| 95     | Switch                 | '99 Unlimited     | Trainer Deck A          |       |           |           | Common      |
-| 95     | Switch                 | '99 Unlimited     |                         |       |           |           | Common      |
-| 96     | Double Colorless Energy| '99 Unlimited     |                         |       |           |           | Common      |
-| 97     | Fighting Energy        | '99 Unlimited     |                         |       |           |           | Common      |
-| 98     | Fire Energy            | '99 Unlimited     |                         |       |           |           | Common      |
-| 99     | Grass Energy           | '99 Unlimited     |                         |       |           |           | Common      |
-| 100    | Lightning Energy       | '99 Unlimited     |                         |       |           |           | Common      |
-| 101    | Psychic Energy         | '99 Unlimited     |                         |       |           |           | Common      |
-| 102    | Water Energy           | '99 Unlimited     | Trainer Deck A          |       |           |           | Common      |
-| 102    | Water Energy           | '99 Unlimited     |                         |       |           |           | Common      |
-| 102    | Water Energy           | '99 Unlimited     | Print Err               |       |           |           | Common      |
+|      # | Name                   | Edition         | Special                 | Owned | Condition | PSA Grade | Rarity      |
+| ------ | ---------------------- | --------------- | ----------------------- | ----- | --------- | --------- | ----------- |
+| 1      | Alakazam               | 1999 Unlim.     |                         |       |           |           | Rare Holo   |
+| 2      | Blastoise              | 1999 Unlim.     | Illus Error             |       |           |           | Rare Holo   |
+| 2      | Blastoise              | 1999 Unlim.     | Trainder Deck B         |       |           |           | Rare        |
+| 2      | Blastoise              | 1999 Unlim.     | Stage Error             |       |           |           | Rare Holo   |
+| 2      | Blastoise              | 1999 Unlim.     |                         | Yes   | Excellent | 10        | Rare Holo   |
+| 3      | Chansey                | 1999 Unlim.     |                         |       |           |           | Rare Holo   |
+| 3      | Chansey                | 1999 Unlim.     | Black Dot Error         |       |           |           | Rare Holo   |
+| 4      | Charizard              | 1999 Unlim.     |                         |       |           |           | Rare Holo   |
+| 4      | Charizard              | 1999 Unlim.     | Black Dot Error         |       |           |           | Rare Holo   |
+| 4      | Charizard              | 1999 Unlim.     | Incomplete Holo Error   |       |           |           | Rare Holo   |
+| 5      | Clefairy               | 1999 Unlim.     |                         | Yes   |           | 5         | Rare Holo   |
+| 5      | Clefairy               | 1999 Unlim.     | Black Dot Error         |       |           |           | Rare Holo   |
+| 5      | Clefairy               | 1999 Unlim.     | Red Heart Error         |       |           |           | Rare Holo   |
+| 6      | Gyarados               | 1999 Unlim.     |                         | Yes   |           | 7         | Rare Holo   |
+| 7      | Hitmonchan             | 1999 Unlim.     |                         |       |           |           | Rare Holo   |
+| 8      | Machamp                | 1999 Unlim.     | Trainer Deck A          |       |           |           | Rare        |
+| 8      | Machamp                | 1999 Unlim.     | 1st Ed-Cosmos Holofoil  | Yes   |           | 7         | Rare Holo   |
+| 9      | Magneton               | 1999 Unlim.     |                         |       |           |           | Rare Holo   |
+| 10     | Mewtwo                 | 1999 Unlim.     |                         |       |           |           | Rare Holo   |
+| 11     | Nidoking               | 1999 Unlim.     |                         |       |           |           | Rare Holo   |
+| 12     | Ninetales              | 1999 Unlim.     | Black Flame error       |       |           |           | Rare Holo   |
+| 12     | Ninetales              | 1999 Unlim.     |                         |       |           |           | Rare Holo   |
+| 13     | Poliwrath              | 1999 Unlim.     |                         |       |           |           | Rare Holo   |
+| 14     | Raichu                 | 1999 Unlim.     |                         |       |           |           | Rare Holo   |
+| 15     | Venusaur               | 1999 Unlim.     |                         | Yes   |           | 7         | Rare Holo   |
+| 15     | Venusaur               | 1999 Unlim.     | Missing Ink Error       |       |           |           | Rare Holo   |
+| 16     | Zapdos                 | 1999 Unlim.     |                         |       |           |           | Rare Holo   |
+| 17     | Beedrill               | 1999 Unlim.     |                         | Yes   |           |           | Rare        |
+| 17     | Beedrill               | 1999 Unlim.     | "D.Efending" Error      |       |           |           | Rare        |
+| 18     | Dragonair              | 1999 Unlim.     |                         | Yes   |           |           | Rare        |
+| 19     | Dugtrio                | 1999 Unlim.     |                         | Yes   |           |           | Rare        |
+| 20     | Electabuzz             | 1999 Unlim.     |                         | Yes   |           |           | Rare        |
+| 21     | Electrode              | 1999 Unlim.     |                         | Yes   |           |           | Rare        |
+| 22     | Pidgeotto              | 1999 Unlim.     | Trainer Deck B          |       |           |           | Rare        |
+| 22     | Pidgeotto              | 1999 Unlim.     |                         | Yes   |           |           | Rare        |
+| 23     | Arcanine               | 1999 Unlim.     |                         | Yes   |           |           | Uncommon    |
+| 24     | Charmeleon             | 1999 Unlim.     |                         | Yes   |           |           | Uncommon    |
+| 25     | Dewgong                | 1999 Unlim.     |                         | Yes   |           |           | Uncommon    |
+| 26     | Dratini                | 1999 Unlim.     |                         | Yes   |           |           | Uncommon    |
+| 27     | Farfetch'd             | 1999 Unlim.     |                         | Yes   |           |           | Uncommon    |
+| 28     | Growlithe              | 1999 Unlim.     |                         | Yes   |           |           | Uncommon    |
+| 29     | Haunter                | 1999 Unlim.     |                         | Yes   |           |           | Uncommon    |
+| 30     | Ivysaur                | 1999 Unlim.     |                         |       |           |           | Uncommon    |
+| 31     | Jynx                   | 1999 Unlim.     |                         | Yes   |           |           | Uncommon    |
+| 32     | Kadabra                | 1999 Unlim.     |                         | Yes   |           |           | Uncommon    |
+| 33     | Kakuna                 | 1999 Unlim.     |                         | Yes   |           |           | Uncommon    |
+| 34     | Machoke                | 1999 Unlim.     | Trainer Deck A          |       |           |           | Uncommon    |
+| 34     | Machoke                | 1999 Unlim.     |                         | Yes   |           |           | Uncommon    |
+| 35     | Magikarp               | 1999 Unlim.     |                         | Yes   |           |           | Uncommon    |
+| 36     | Magmar                 | 1999 Unlim.     |                         | Yes   |           |           | Uncommon    |
+| 37     | Nidorino               | 1999 Unlim.     |                         | Yes   |           |           | Uncommon    |
+| 38     | Poliwhirl              | 1999 Unlim.     |                         | Yes   |           |           | Uncommon    |
+| 39     | Porygon                | 1999 Unlim.     |                         | Yes   |           |           | Uncommon    |
+| 40     | Raticate               | 1999 Unlim.     | Trainer Deck A          |       |           |           | Uncommon    |
+| 40     | Raticate               | 1999 Unlim.     |                         | Yes   |           |           | Uncommon    |
+| 41     | Seel                   | 1999 Unlim.     | Trainer Deck B          |       |           |           | Uncommon    |
+| 41     | Seel                   | 1999 Unlim.     |                         | Yes   |           |           | Uncommon    |
+| 42     | Wartortle              | 1999 Unlim.     | Trainer Deck B          |       |           |           | Uncommon    |
+| 42     | Wartortle              | 1999 Unlim.     | Evolution Box Err       | Yes   |           |           | Uncommon    |
+| 42     | Wartortle              | 1999 Unlim.     |                         | Yes   |           |           | Uncommon    |
+| 43     | Abra                   | 1999 Unlim.     |                         | Yes   |           |           | Common      |
+| 44     | Bulbasaur              | 1999 Unlim.     |                         | Yes   |           |           | Common      |
+| 45     | Caterpie               | 1999 Unlim.     |                         | Yes   |           |           | Common      |
+| 46     | Charmander             | 1999 Unlim.     |                         | Yes   |           |           | Common      |
+| 47     | Diglett                | 1999 Unlim.     |                         | Yes   |           |           | Common      |
+| 48     | Doduo                  | 1999 Unlim.     |                         | Yes   |           |           | Common      |
+| 49     | Drowzee                | 1999 Unlim.     |                         | Yes   |           |           | Common      |
+| 50     | Gastly                 | 1999 Unlim.     |                         | Yes   |           |           | Common      |
+| 51     | Koffing                | 1999 Unlim.     |                         | Yes   |           |           | Common      |
+| 52     | Machop                 | 1999 Unlim.     | Trainer Deck A          |       |           |           | Common      |
+| 52     | Machop                 | 1999 Unlim.     |                         | Yes   |           |           | Common      |
+| 53     | Magnemite              | 1999 Unlim.     |                         | Yes   |           |           | Common      |
+| 54     | Metapod                | 1999 Unlim.     |                         | Yes   |           |           | Common      |
+| 55     | Nidoran♂               | 1999 Unlim.     |                         | Yes   |           |           | Common      |
+| 56     | Onix                   | 1999 Unlim.     | Trainer Deck A          |       |           |           | Common      |
+| 56     | Onix                   | 1999 Unlim.     |                         | Yes   |           |           | Common      |
+| 57     | Pidgey                 | 1999 Unlim.     | Trainer Deck B          |       |           |           | Common      |
+| 57     | Pidgey                 | 1999 Unlim.     |                         | Yes   |           |           | Common      |
+| 58     | Pikachu                | 1999 Unlim.     | Australia PokeTour      | Yes   | Excellent | 9         | Common      |
+| 58     | Pikachu                | 1999 Unlim.     | E3 Yellow Cheeks        | Yes   |           | 6         | Common      |
+| 58     | Pikachu                | 1999 Unlim.     | Yellow Cheeks           | Yes   |           | 9         | Common      |
+| 59     | Poliwag                | 1999 Unlim.     |                         | Yes   |           |           | Common      |
+| 59     | Poliwag                | 1999 Unlim.     | 1999-2000 4th Print     |       |           |           | Common      |
+| 60     | Ponyta                 | 1999 Unlim.     |                         | Yes   |           |           | Common      |
+| 61     | Rattata                | 1999 Unlim.     | Trainer Deck A          |       |           |           | Common      |
+| 61     | Rattata                | 1999 Unlim.     |                         | Yes   |           |           | Common      |
+| 62     | Sandshrew              | 1999 Unlim.     | Trainer Deck A          |       |           |           | Common      |
+| 62     | Sandshrew              | 1999 Unlim.     |                         | Yes   |           |           | Common      |
+| 62     | Sandshrew              | 1999 Unlim.     | 1999-2000 4th Print     | Yes   |           |           | Common      |
+| 63     | Squirtle               | 1999 Unlim.     | Trainer Deck B          |       |           |           | Common      |
+| 63     | Squirtle               | 1999 Unlim.     |                         | Yes   |           |           | Common      |
+| 64     | Starmie                | 1999 Unlim.     | Trainer Deck B          |       |           |           | Common      |
+| 64     | Starmie                | 1999 Unlim.     |                         | Yes   |           |           | Common      |
+| 64     | Starmie                | 1999 Unlim.     | 1999-2000 4th Print     | Yes   |           |           | Common      |
+| 65     | Staryu                 | 1999 Unlim.     | Trainer Deck B          |       |           |           | Common      |
+| 65     | Staryu                 | 1999 Unlim.     |                         | Yes   |           |           | Common      |
+| 66     | Tangela                | 1999 Unlim.     |                         | Yes   |           |           | Common      |
+| 67     | Voltorb                | 1999 Unlim.     |                         | Yes   |           |           | Common      |
+| 68     | Vulpix                 | 1999 Unlim.     |                         | Yes   |           |           | Common      |
+| 69     | Weedle                 | 1999 Unlim.     |                         | Yes   |           |           | Common      |
+| 70     | Clefairy Doll          | 1999 Unlim.     |                         | Yes   |           |           | Rare        |
+| 71     | Computer Search        | 1999 Unlim.     | Trainer Deck B          |       |           |           | Rare        |
+| 71     | Computer Search        | 1999 Unlim.     |                         | Yes   |           |           | Rare        |
+| 72     | Devolution Spray       | 1999 Unlim.     |                         |       |           |           | Rare        |
+| 73     | Imposter Professor Oak | 1999 Unlim.     |                         |       |           |           | Rare        |
+| 74     | Item Finder            | 1999 Unlim.     |                         |       |           |           | Rare        |
+| 75     | Lass                   | 1999 Unlim.     |                         |       |           |           | Rare        |
+| 76     | Pokémon Breeder        | 1999 Unlim.     |                         |       |           |           | Rare        |
+| 77     | Pokémon Trader         | 1999 Unlim.     | Trainer Deck B          |       |           |           | Rare        |
+| 77     | Pokémon Trader         | 1999 Unlim.     |                         |       |           |           | Rare        |
+| 78     | Scoop Up               | 1999 Unlim.     |                         |       |           |           | Rare        |
+| 79     | Super Energy Removal   | 1999 Unlim.     |                         |       |           |           | Rare        |
+| 80     | Defender               | 1999 Unlim.     | Trainer Deck A          |       |           |           | Uncommon    |
+| 80     | Defender               | 1999 Unlim.     |                         |       |           |           | Uncommon    |
+| 81     | Energy Retrieval       | 1999 Unlim.     |                         |       |           |           | Uncommon    |
+| 82     | Full Heal              | 1999 Unlim.     |                         |       |           |           | Uncommon    |
+| 83     | Maintenance            | 1999 Unlim.     |                         |       |           |           | Uncommon    |
+| 84     | PlusPower              | 1999 Unlim.     |                         |       |           |           | Uncommon    |
+| 85     | Pokémon Center         | 1999 Unlim.     |                         |       |           |           | Uncommon    |
+| 86     | Pokémon Flute          | 1999 Unlim.     |                         |       |           |           | Uncommon    |
+| 87     | Pokédex                | 1999 Unlim.     |                         |       |           |           | Uncommon    |
+| 88     | Professor Oak          | 1999 Unlim.     |                         |       |           |           | Uncommon    |
+| 89     | Revive                 | 1999 Unlim.     |                         |       |           |           | Uncommon    |
+| 90     | Super Potion           | 1999 Unlim.     | Trainer Deck A          |       |           |           | Uncommon    |
+| 90     | Super Potion           | 1999 Unlim.     |                         |       |           |           | Uncommon    |
+| 91     | Bill                   | 1999 Unlim.     |                         |       |           |           | Common      |
+| 92     | Energy Removal         | 1999 Unlim.     | Trainer Deck B          |       |           |           | Common      |
+| 92     | Energy Removal         | 1999 Unlim.     |                         |       |           |           | Common      |
+| 93     | Gust of Wind           | 1999 Unlim.     |                         |       |           |           | Common      |
+| 94     | Potion                 | 1999 Unlim.     | Trainer Deck A          |       |           |           | Common      |
+| 94     | Potion                 | 1999 Unlim.     |                         |       |           |           | Common      |
+| 95     | Switch                 | 1999 Unlim.     | Trainer Deck A          |       |           |           | Common      |
+| 95     | Switch                 | 1999 Unlim.     |                         |       |           |           | Common      |
+| 96     | Double Colorless Energy| 1999 Unlim.     |                         |       |           |           | Common      |
+| 97     | Fighting Energy        | 1999 Unlim.     |                         |       |           |           | Common      |
+| 98     | Fire Energy            | 1999 Unlim.     |                         |       |           |           | Common      |
+| 99     | Grass Energy           | 1999 Unlim.     |                         |       |           |           | Common      |
+| 100    | Lightning Energy       | 1999 Unlim.     |                         |       |           |           | Common      |
+| 101    | Psychic Energy         | 1999 Unlim.     |                         |       |           |           | Common      |
+| 102    | Water Energy           | 1999 Unlim.     | Trainer Deck A          |       |           |           | Common      |
+| 102    | Water Energy           | 1999 Unlim.     |                         |       |           |           | Common      |
+| 102    | Water Energy           | 1999 Unlim.     | Print Err               |       |           |           | Common      |
 
 ## 2000 Base Set - 4th Print Unlimited
 
